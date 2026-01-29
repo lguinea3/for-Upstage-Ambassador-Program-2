@@ -22,7 +22,7 @@ PRISM-Lite/
 
 PRISM-System Prompt/
 ├── PRISM-Lite       # API와 연동된 현재 프롬프트
-└──  PRISM(Perspective-Rich Ideation & Spectrum Mapping).md  # 연동 목표 주요 프롬프트
+└── PRISM(Perspective-Rich Ideation & Spectrum Mapping).md  # 연동 목표 주요 프롬프트
 
 ```
 
