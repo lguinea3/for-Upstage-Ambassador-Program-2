@@ -11,13 +11,18 @@ PRISM-Lite는 AI를 "답을 주는 도구"가 아닌 "함께 생각하는 파트
 ## 📁 프로젝트 구조
 
 ```
-prism-lite/
+PRISM-Lite/
 ├── analyzer.py      # 핵심 분석 모듈 (Upstage Solar API 연동)
 ├── app.py           # Streamlit 웹 인터페이스
 ├── requirements.txt # Python 패키지 의존성
 ├── .env.example     # 환경변수 예시 (복사해서 .env로 사용)
 ├── .gitignore       # Git 무시 파일 목록
 └── README.md        # 이 파일
+
+PRISM-System Prompt/
+├── PRISM-Lite       # API와 연동된 현재 프롬프트
+├── PRISM(Perspective-Rich Ideation & Spectrum Mapping).md  # 연동 목표 주요 프롬프트
+
 ```
 
 ---
