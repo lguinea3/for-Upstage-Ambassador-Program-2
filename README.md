@@ -33,7 +33,6 @@ PRISM-System Prompt/
 ## 🚀 빠른 시작 가이드
 
 ### Step 1: API 키 발급
-
 1. [Upstage Console](https://console.upstage.ai/)에 가입/로그인합니다
 2. API 키를 발급받습니다
 
@@ -41,7 +40,7 @@ PRISM-System Prompt/
 
 ```bash
 # 1. 프로젝트 폴더로 이동
-cd prism-lite
+cd PRISM-Lite
 
 # 2. 가상환경 생성 및 활성화
 python -m venv venv
